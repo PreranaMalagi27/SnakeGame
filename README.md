@@ -1,6 +1,6 @@
 Sanke Game 
 
-I have created a Snake Game using HTML, CSS, JavaScript and Tailwind CSS. 
+I have created a Snake Game using HTML, JavaScript and Tailwind CSS. 
 Snake can move in any direction, but when the snake is moving in upward direction it cannot come in downward direction simultaneously. it has to take right or left then 
 downward direction, this is how even the actual snake also moves. Same with right and left direction also.
 
