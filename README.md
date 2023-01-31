@@ -10,7 +10,7 @@ random position will be given to the fruit (such that snake can eat) and again t
 the speed of the snake increases as it snake goes on eating the fruit. 
 
 Whenever the snake touched the boundary line of any 4 direction or if the snake intersects (face of the snake touches it's own tail) there is a popUp notification 
-saying Game is Over! and the page will be refreshed by itself. 
+saying Game is Over! and the page will be refreshed by itself (within 2 seconds). 
 
 There is also a score board where the score of the player increases by 10 points after the snake consumes 1 fruit. 
 
