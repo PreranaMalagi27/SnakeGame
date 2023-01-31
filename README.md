@@ -14,4 +14,11 @@ saying Game is Over! and the page will be refreshed by itself (within 2 seconds)
 
 There is also a score board where the score of the player increases by 10 points after the snake consumes 1 fruit. 
 
+This is how my game looks like:
+(https://user-images.githubusercontent.com/115856559/215732893-73149070-3ea7-483d-81d2-8d11951272c2.png)
 
+Whhen the snake eats some fruits and it's score board updates it looks as shown below:
+(https://user-images.githubusercontent.com/115856559/215733007-9de91b2b-1477-4516-bd86-4968ddf25832.jpeg)
+
+The notification popped will look like as shown below:
+(https://user-images.githubusercontent.com/115856559/215733016-fabeeab2-348f-4575-b552-1b877cecabb9.png)
