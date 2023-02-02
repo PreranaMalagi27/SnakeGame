@@ -184,7 +184,7 @@ function checkGameOver(){
        swal({
         title: "Game Over!",
         text: "Refreshing Wait!",
-        icon: "warniing",
+        icon: "warning",
         button: "REFRESH!",
       });
        location.reload(); 
