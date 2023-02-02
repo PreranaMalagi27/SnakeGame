@@ -207,19 +207,3 @@ function snakeIntersection(){
         }
       }
 }
-
-
-// Attach event listener to open popup
-document.getElementById(
-	'popup-btn').addEventListener('click', (e)=>{
-		document.getElementById(
-	'wrapper').style.visibility = "visible";
-	})
-	
-	// Attach event listener to first close popup and then refresh page
-	document.getElementById(
-	'close-btn').addEventListener('click', (e) => {
-		document.getElementById(
-	'wrapper').style.visibility = "hidden";
-		window.location.reload();
-	});
