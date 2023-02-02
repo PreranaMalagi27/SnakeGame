@@ -21,4 +21,5 @@ Whhen the snake eats some fruits and it's score board updates it looks as shown 
 (https://user-images.githubusercontent.com/115856559/215733007-9de91b2b-1477-4516-bd86-4968ddf25832.jpeg)
 
 The notification popped will look like as shown below:
-(https://user-images.githubusercontent.com/115856559/215733016-fabeeab2-348f-4575-b552-1b877cecabb9.png)
+(https://user-images.githubusercontent.com/115856559/216308207-c654607e-d1c3-4bc7-9f00-9d6c2994a1d0.jpeg)
+
